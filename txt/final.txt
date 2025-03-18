@@ -1,0 +1,2 @@
+Hello! This is greeting from "second.txt".
+Hello! This is the append text.
