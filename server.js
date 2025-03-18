@@ -1,6 +1,6 @@
 // V. Creating A Simple Web Server
 
-// Importing http module
+// Importing http module for server
 const http = require("http");
 
 // Creating a server
