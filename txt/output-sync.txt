@@ -1,0 +1,1 @@
+This fils is written synchronously! Text from the 'input.txt' is 'Hello! This is greeting from the "input.txt".'.
